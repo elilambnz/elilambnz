@@ -5,4 +5,4 @@
 - 🐍 I'm currently working on [react-py](https://elilambnz.github.io/react-py), a React hook to run Python code in the browser.
 - 💉 I also maintain another NPM package, take a look at [nhi-validator](https://www.npmjs.com/package/nhi-validator).
 - 🧪 For commercial projects and enquiries, use the contact form on my website at [Pixel Lab](https://pixellab.nz).
-- 🤑 Grab yourself a free TailwindCSS + React [Coming Soon](https://elilambnz.github.io/react-py) template.
+- 🤑 Grab yourself a free TailwindCSS + React [Coming Soon](https://elilambnz.github.io/coming-soon) template.
