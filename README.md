@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Eli, a software developer from New Zealand.
+# 👋 Hi there! I'm Eli
 
 ✨ See my portfolio at [Pixel Lab](https://pixellab.nz)!
 
