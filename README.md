@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Eli
 
-✨ For commercial projects and enquiries, use the contact form on my website at [Pixel Lab](https://pixellab.nz).
+✨ For enquiries, use the contact form on my portfolio website at [Pixel Lab](https://pixellab.nz).
 
 ## Open Source
 
